@@ -1,0 +1,4 @@
+
+
+class JuniorInvestor:
+    pass
